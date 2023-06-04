@@ -1,0 +1,14 @@
+body {
+    direction: rtl;
+}
+.prices .container .box .det h5 {
+    margin-right: 25px;
+}
+.prices .container .box .det h5::before {
+    right: -25px;
+}
+.payment .container .content img {
+    width: 60px;
+    margin-right: 0;
+    margin-left: 10px;
+}
